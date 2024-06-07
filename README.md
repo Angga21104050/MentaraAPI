@@ -15,7 +15,7 @@ Here're some of the project's best features:
 <p>1. Download / Git clone this Repository</p>
 
 ```
-git clone https://github.com/Rizfan/Mentara-ExpressAPI.git
+git clone https://github.com/Angga21104050/MentaraAPI
 ```
 
 <p>2. Open Xampp and Import the db_project.sql on Localhost</p>
